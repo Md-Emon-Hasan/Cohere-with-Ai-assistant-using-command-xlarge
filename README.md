@@ -1,4 +1,5 @@
 # **Cohere AI Assistant**
+![Image](https://github.com/user-attachments/assets/cc30c6cb-6d07-4633-9100-2f8242300187)
 
 ### **Overview**
 
